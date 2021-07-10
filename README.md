@@ -1,4 +1,4 @@
 # discordrpc-buttons
 
-Run with 
-## node index.js
+
+## Run with node index.js
