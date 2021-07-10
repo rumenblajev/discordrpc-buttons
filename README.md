@@ -1,4 +1,7 @@
 # discordrpc-buttons
 
 
-## Run with node index.js
+## Usage:
+run 'npm i -y'
+run 'node index.js'
+you are done :)
